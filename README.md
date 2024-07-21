@@ -1,10 +1,10 @@
 # Welcome to the BandName Generator
 
 ## Its a very simple project created by using only
- *Node
- *JavaScript
- *CSS
- *EJS.
+ * Node
+ * JavaScript
+ * CSS
+ * EJS.
 
 you can visit or have a look at my mini project by clicking on this [LINK](https://bandnamegenerator-0kpe.onrender.com/)
 
